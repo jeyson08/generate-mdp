@@ -38,3 +38,5 @@ const generatePassword = () => {
 };
 
 generateButton.addEventListener("click", generatePassword);
+
+//test
